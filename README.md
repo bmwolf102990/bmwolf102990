@@ -2,7 +2,7 @@
 ## I love to code & design apps and stuff
 
 <div align="center">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,,css,,sass,,tailwind,,bootstrap,,javascript,,regex,,jquery,,react,,redux,,next,,typescript,,nodejs,,jest,,python,,django,,wordpress,,vscode,,git,,github,,gitlab&perline=21&theme=light"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,,css,,sass,,tailwind,,bootstrap,,javascript,,regex,,jquery,,react,,redux,,next,,typescript,,nodejs,,express,,jest,,mongodb,,python,,django,,wordpress,,vscode,,git,,github,,gitlab&perline=23&theme=light"/></a>
 </div>
 <hr/>
 
