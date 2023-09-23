@@ -8,9 +8,9 @@
 
 <img src='https://img.shields.io/github/followers/bmwolf102990?style=social&label=Followers' height='25'> <img src='https://img.shields.io/github/forks/bmwolf102990/visualDev?style=social&label=Forks' height='25'> <img src='https://img.shields.io/github/stars/bmwolf102990?style=social&label=Stars' height='25'>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bmwolf102990&count_private=true&show_icons=true&theme=dark" height="200" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bmwolf102990&theme=dark" height="200" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmwolf102990&layout=compact&theme=dark" height="280" align="right">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bmwolf102990&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" height="200" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bmwolf102990&theme=dark#gh-dark-mode-only" height="200" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmwolf102990&layout=compact&theme=dark#gh-dark-mode-only" height="280" align="right">
 
 ## A Little About Me
 🧑‍💻 I am currently working as a Front End Engineer @ [Banyan Labs](https://banyanlabs.io)
@@ -25,9 +25,9 @@
 
 The goal of visualDev is to offer a number of tools/apps that SHOW how algorithms and other coding concepts operate, so that the barrier to entry to coding and programming is lowered for those who are more oriented toward a visual learning style. 
 
-✨ Fun Fact #2 - I love camping, hiking, rock climbing and everything else "outdoorsy"
+✨ Fun Fact #1 - I love camping, hiking, rock climbing and everything else "outdoorsy"
 
-✨ Fun Fact #1 - My dream job is to be the first Muggle headmaster of Hogwarts
+✨ Fun Fact #2 - My dream job is to be the first Muggle headmaster of Hogwarts
 
 ✨ Fun Fact #3 - I am a HUGE Pokemon GO nerd
 
