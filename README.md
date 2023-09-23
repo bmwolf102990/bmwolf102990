@@ -1,4 +1,4 @@
-# Hello World... you can call me Bryan Wolf 🐺👋
+# Hello World...you can call me Bryan Wolf 🐺👋
 ## I love to code & design apps and stuff
 
 <div align="center">
