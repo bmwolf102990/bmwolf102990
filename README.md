@@ -35,6 +35,3 @@ It is still in the early stages of devleopment, but stay tuned!
 
 ## 📧 Contact me
 [bmwolf.professional@gmail.com](mailto:bmwolf.professional@gmail.com)
-
-
-<!-- **bmwolf102990/bmwolf102990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
