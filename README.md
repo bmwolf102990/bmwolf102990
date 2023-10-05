@@ -25,7 +25,7 @@
 
 The goal of visualDev is to offer a number of tools/apps that SHOW how algorithms and other coding concepts operate, so that the barrier to entry to coding and programming is lowered for those who are more oriented toward a visual learning style.
 
-It is still in the early stages of devleopment, but stay tuned!
+It is still in the early stages of development, but stay tuned!
 
 ✨ Fun Fact #1 - I love camping, hiking, rock climbing and everything else "outdoorsy"
 
