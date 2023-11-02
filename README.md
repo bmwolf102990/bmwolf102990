@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmwolf102990&layout=compact&theme=dark" height="280" align="right">
 
 ## A Little About Me
-🧑‍💻 I am currently working as a Front End Engineer @ [Banyan Labs](https://banyanlabs.io)
+🧑‍💻 I am currently focusing on developing some of my personal side projects
 
 🎓 I am a graduate of [Justice Through Code](https://centerforjustice.columbia.edu/justicethroughcode)
 
