@@ -19,7 +19,7 @@
 
 🎓 I am a graduate of [Persevere Now](https://perseverenow.org)
 
-🧠 I am currently learning [Next.js](https://nextjs.org), [Tailwind](https://tailwindcss.com) & SQL
+🧠 I am currently learning [Next.js](https://nextjs.org), [Tailwind](https://tailwindcss.com) & [MySQL](https://www.mysql.com)
 
 🚀 My current passion project is a learning platform that I am developing, called "visualDev".
 
