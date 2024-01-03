@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmwolf102990&layout=compact&theme=dark" height="280" align="right">
 
 ## A Little About Me
-🧑‍💻 I am currently a coding instructor for Persevere Now and I am preparing myself to start my second career as a father in July 2024!
+🧑‍💻 I am currently a coding instructor for [Persevere Now](https://perseverenow.org), and I am preparing myself to start my second career as a father in July 2024!
 
 🎓 I am a graduate of [Justice Through Code](https://centerforjustice.columbia.edu/justicethroughcode)
 
