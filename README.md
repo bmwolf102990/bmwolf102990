@@ -1,16 +1,16 @@
 # Hello World...you can call me Bryan Wolf 🐺👋
 ## I love to code & design apps and stuff
 
-<div align="center">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,,css,,sass,,tailwind,,bootstrap,,javascript,,regex,,jquery,,react,,redux,,next,,typescript,,nodejs,,express,,jest,,mongodb,,python,,django,,wordpress,,vscode,,git,,github,,gitlab&perline=23&theme=light"/></a>
+<div align='center'>
+<a href='#'><img src='https://skillicons.dev/icons?i=html,,css,,sass,,tailwind,,bootstrap,,javascript,,regex,,jquery,,react,,redux,,next,,typescript,,nodejs,,express,,jest,,mongodb,,python,,django,,wordpress,,vscode,,git,,github,,gitlab&perline=23&theme=light'/></a>
 </div>
 <hr/>
 
-<a href='https://github.com/bmwolf102990?tab=followers'><img src='https://img.shields.io/github/followers/bmwolf102990?style=social&label=Followers' height='25'></a> <img src='https://img.shields.io/github/forks/bmwolf102990/visualDev?style=social&label=Forks' height='25'> <img src='https://img.shields.io/github/stars/bmwolf102990?style=social&label=Stars' height='25'>
+<a href='https://github.com/bmwolf102990?tab=followers'><img src='https://img.shields.io/github/followers/bmwolf102990?style=social&label=Followers' height='25'></a> <a href='https://github.com/bmwolf102990/visualDev'><img src='https://img.shields.io/github/forks/bmwolf102990/visualDev?style=social&label=Forks' height='25'></a> <a href='https://github.com/bmwolf102990/visualDev'><img src='https://img.shields.io/github/stars/bmwolf102990?style=social&label=Stars' height='25'></a>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bmwolf102990&count_private=true&show_icons=true&theme=dark" height="200" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bmwolf102990&theme=dark" height="200" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmwolf102990&layout=compact&theme=dark" height="280" align="right">
+<img src='https://github-readme-stats-sigma-five.vercel.app/api?username=bmwolf102990&count_private=true&show_icons=true&theme=dark' height='200' align='right'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=bmwolf102990&theme=dark' height='200' align='right'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bmwolf102990&layout=compact&theme=dark' height='280' align='right'>
 
 ## A Little About Me
 🧑‍💻 I am currently a coding instructor for [Persevere Now](https://perseverenow.org), and I am preparing myself to start my second career as a father in July 2024!
