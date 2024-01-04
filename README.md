@@ -6,7 +6,7 @@
 </div>
 <hr/>
 
-<img src='https://img.shields.io/github/followers/bmwolf102990?style=social&label=Followers' height='25'> <img src='https://img.shields.io/github/forks/bmwolf102990/visualDev?style=social&label=Forks' height='25'> <img src='https://img.shields.io/github/stars/bmwolf102990?style=social&label=Stars' height='25'>
+<a href='https://github.com/bmwolf102990?tab=followers'><img src='https://img.shields.io/github/followers/bmwolf102990?style=social&label=Followers' height='25'></a> <img src='https://img.shields.io/github/forks/bmwolf102990/visualDev?style=social&label=Forks' height='25'> <img src='https://img.shields.io/github/stars/bmwolf102990?style=social&label=Stars' height='25'>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bmwolf102990&count_private=true&show_icons=true&theme=dark" height="200" align="right">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmwolf102990&theme=dark" height="200" align="right">
