@@ -27,11 +27,11 @@ The goal of visualDev is to offer a number of tools/apps that SHOW how algorithm
 
 It is still in the early stages of development, but stay tuned!
 
-✨ Fun Fact #1 - I love camping, hiking, rock climbing and everything else "outdoorsy"
+✨ Fun Fact #0 - I love camping, hiking, rock climbing and everything else "outdoorsy"
 
-✨ Fun Fact #2 - My dream job is to be the first Muggle headmaster of Hogwarts
+✨ Fun Fact #1 - My dream job is to be the first Muggle headmaster of Hogwarts
 
-✨ Fun Fact #3 - I am a HUGE Pokemon GO nerd
+✨ Fun Fact #2 - I am a HUGE Pokemon GO nerd
 
 ## 📧 Contact me
 [bmwolf.professional@gmail.com](mailto:bmwolf.professional@gmail.com)
