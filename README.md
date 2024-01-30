@@ -6,7 +6,7 @@
 </div>
 <hr/>
 
-<a href='https://github.com/bmwolf102990?tab=followers'><img src='https://img.shields.io/github/followers/bmwolf102990?style=social&label=Followers' height='25'></a> <a href='https://news.ycombinator.com'><img src='https://img.shields.io/hackernews/user-karma/bmwolf102990?style=social&label=Karma' height='25'></a>
+<a href='https://github.com/bmwolf102990?tab=followers'><img src='https://img.shields.io/github/followers/bmwolf102990?style=social&label=Followers' height='25'></a> <a href='https://news.ycombinator.com'><img src='https://img.shields.io/hackernews/user-karma/bmwolf102990?style=social&label=Karma' height='25'></a> <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbmwolf102990&countColor=%2332cd32&style=flat' height='25'>
 
 <a href='#'><img src='https://github-readme-stats-sigma-five.vercel.app/api?username=bmwolf102990&count_private=true&show_icons=true&theme=dark' height='200' align='right'></a>
 <a href='#'><img src='https://github-readme-streak-stats.herokuapp.com/?user=bmwolf102990&theme=dark' height='200' align='right'></a>
