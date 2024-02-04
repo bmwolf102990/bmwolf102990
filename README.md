@@ -10,7 +10,7 @@
 
 <a href='#'><img src='https://github-readme-stats-sigma-five.vercel.app/api?username=bmwolf102990&count_private=true&show_icons=true&theme=dark' height='200' align='right'></a>
 <a href='#'><img src='https://github-readme-streak-stats.herokuapp.com/?user=bmwolf102990&theme=dark' height='200' align='right'></a>
-<a href='#'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bmwolf102990&layout=donut&theme=dark' height='311.5' align='right'></a>
+<a href='#'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bmwolf102990&layout=donut&theme=dark' height='311.7' align='right'></a>
 
 ## A Little About Me
 🧑‍💻 I am currently a coding instructor for [Persevere Now](https://perseverenow.org), and I am preparing myself to start my second career as a father in July 2024!
@@ -32,7 +32,6 @@ It is still in the early stages of development, but stay tuned!
 ✨ Fun Fact #1 - My dream job is to be the first Muggle headmaster of Hogwarts
 
 ✨ Fun Fact #2 - I am a HUGE Pokemon GO nerd
-<br/>
 <br/>
 <br/>
 ## 📧 Contact me
