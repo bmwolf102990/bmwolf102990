@@ -33,6 +33,5 @@ It is still in the early stages of development, but stay tuned!
 
 ✨ Fun Fact #2 - I am a HUGE Pokemon GO nerd
 <br/>
-<br/>
 ## 📧 Contact me
 [bmwolf.professional@gmail.com](mailto:bmwolf.professional@gmail.com)
