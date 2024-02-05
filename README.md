@@ -1,5 +1,4 @@
-# Hello World...you can call me Bryan Wolf 🐺👋
-## I love to code & design apps and stuff
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World...you can call me Bryan Wolf 🐺
 
 <div align='center'>
 <a href='#'><img src='https://skillicons.dev/icons?i=html,,css,,sass,,tailwind,,bootstrap,,javascript,,regex,,jquery,,react,,redux,,next,,typescript,,nodejs,,express,,jest,,mongodb,,python,,django,,mysql,,wordpress,,vscode,,git,,github,,gitlab,,netlify,,postman,,vercel,,markdown,,raspberrypi,,pug,,docker,,deno,,figma,,graphql,,d3&perline=23&theme=light'/></a>
@@ -13,11 +12,11 @@
 <a href='#'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bmwolf102990&layout=donut&theme=dark' height='311.7' align='right'></a>
 
 ## A Little About Me
-🧑‍💻 I am currently a coding instructor for [Persevere Now](https://perseverenow.org), and I am preparing myself to start my second career as a father in July 2024!
-
-🎓 I am a graduate of [Justice Through Code](https://centerforjustice.columbia.edu/justicethroughcode)
+🧑‍💻 I am currently a coding instructor for [Persevere Now](https://perseverenow.org), and I am preparing myself to start my second career as a father in July!
 
 🎓 I am a graduate of [Persevere Now](https://perseverenow.org)
+
+🎓 I am a graduate of [Justice Through Code](https://centerforjustice.columbia.edu/justicethroughcode)
 
 🧠 I am currently learning [Next.js](https://nextjs.org), [Tailwind](https://tailwindcss.com) & [MySQL](https://www.mysql.com)
 
