@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World...you can call me Bryan Wolf 🐺
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World...you can call me Bryan Wolf
 
 <div align='center'>
 <a href='#'><img src='https://skillicons.dev/icons?i=html,,css,,sass,,tailwind,,bootstrap,,javascript,,regex,,jquery,,react,,redux,,next,,typescript,,nodejs,,express,,jest,,mongodb,,python,,django,,mysql,,wordpress,,vscode,,git,,github,,gitlab,,netlify,,postman,,vercel,,markdown,,raspberrypi,,pug,,docker,,deno,,figma,,graphql,,d3&perline=23&theme=light'/></a>
