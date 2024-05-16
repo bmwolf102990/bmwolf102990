@@ -30,7 +30,7 @@ It is still in the early stages of development, but stay tuned!
 
 ✨ Fun Fact #1 - My dream job is to be the first Muggle headmaster of Hogwarts
 
-✨ Fun Fact #2 - I am a HUGE Pokemon GO nerd
+✨ Fun Fact #2 - I nerd out on Pokemon, Harry Potter, Magic: The Gathering, and Yu-Gi-Oh
 <br/>
 ## 📧 Contact me
 [bmwolf.professional@gmail.com](mailto:bmwolf.professional@gmail.com)
