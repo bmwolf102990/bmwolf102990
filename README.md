@@ -20,11 +20,7 @@
 
 🧠 I am currently learning [Next.js](https://nextjs.org), [Tailwind](https://tailwindcss.com) & [MySQL](https://www.mysql.com)
 
-🚀 My current passion project is a learning platform that I am developing, code named [visualDev](https://github.com/bmwolf102990/visualDev).
-
-The goal of visualDev is to offer a number of tools/apps that SHOW how algorithms and other coding concepts operate, so that the barrier to entry to coding and programming is lowered for those who are more oriented toward a visual learning style.
-
-It is still in the early stages of development, but stay tuned!
+🚀 My current passion project is classified **`TOP SECRET`**. More details will be revealed in time.
 
 ✨ Fun Fact #0 - I love camping, hiking, rock climbing and everything else "outdoorsy"
 
