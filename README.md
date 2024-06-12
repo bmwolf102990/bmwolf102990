@@ -20,7 +20,7 @@
 
 🧠 I am currently learning [Next.js](https://nextjs.org), [Tailwind](https://tailwindcss.com) & [MySQL](https://www.mysql.com)
 
-🚀 My current passion project is classified **`TOP SECRET`**. More details will be revealed in time.
+🚀 My current passion project is classified **TOP SECRET**. More details will be revealed in time.
 
 ✨ Fun Fact #0 - I love camping, hiking, rock climbing and everything else "outdoorsy"
 
