@@ -11,7 +11,7 @@
 <a href='#'><img src='https://github-readme-streak-stats.herokuapp.com/?user=bmwolf102990&theme=dark' height='200' align='right'></a>
 <a href='#'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bmwolf102990&layout=donut&theme=dark' height='311.7' align='right'></a>
 
-### A Little About Me
+## A Little About Me
 🧑‍💻 I am currently a coding instructor for [Persevere Now](https://perseverenow.org), and I am preparing myself to start my second career as a father in July!
 
 🎓 I am a graduate of [Persevere Now](https://perseverenow.org)
@@ -28,5 +28,5 @@
 
 ✨ Fun Fact #2 - I nerd out on all things Pokemon, Harry Potter, Yu-Gi-Oh! and Magic: The Gathering
 <br/>
-### 📧 Contact me
+## 📧 Contact me
 [bmwolf.professional@gmail.com](mailto:bmwolf.professional@gmail.com)
