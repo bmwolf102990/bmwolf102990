@@ -26,7 +26,7 @@
 
 ✨ Fun Fact #1 - My dream job is to be the first Muggle headmaster of Hogwarts
 
-✨ Fun Fact #2 - I nerd out on all things Pokemon, Harry Potter, Yu-Gi-Oh! and Magic: The Gathering
+✨ Fun Fact #2 - I nerd out on all things Pokemon, Harry Potter, Yu-Gi-Oh!, D&D and Magic: The Gathering
 <br/>
 ### 📧 Contact me
 [bmwolf.professional@gmail.com](mailto:bmwolf.professional@gmail.com)
